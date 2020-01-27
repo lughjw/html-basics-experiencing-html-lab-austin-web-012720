@@ -1,0 +1,5 @@
+"salty"
+"sour"
+"bitter"
+"sweet"
+"umami"
